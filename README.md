@@ -9,4 +9,6 @@ HTML, CSS, JavaScript
 
 Bubble Sort, Quick Sort, Merge Sort, Selection Sort, Insertion Sort
 
+# website
 
+https://658c23060888fb629306a986--comfy-centaur-a39f72.netlify.app/
